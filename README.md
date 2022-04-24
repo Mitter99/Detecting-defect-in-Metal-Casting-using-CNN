@@ -1,0 +1,1 @@
+# Detecting-defect-in-Metal-Casting-using-CNN
